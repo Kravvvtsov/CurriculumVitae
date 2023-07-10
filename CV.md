@@ -80,12 +80,22 @@ namespace Fibonacci
 
 ## EXPERIENCE
 
+* As part of the course project to the discipline "Databases" was developed a program to record information about foreign students studying at the university
+* As part of the course project to the discipline "Computer Graphics" was developed game application in the genre of Endless Runner
+* As part of the course project to the discipline "Programming" was developed program for ticket sales accounting
+
 ***
 
 ## COURSES
 
+1. MagNet C# Training
+2. EPAM Training
+
 ***
 
 ## LANGUAGES
+
+* Russian: Native speaker
+* English: B1 (Intermediate)
 
 ***
